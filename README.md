@@ -1,5 +1,7 @@
 Meme Detection System
+
 Project Description:
+
 You are required to work on the provided meme’s dataset. The dataset consists of two types of
 data. i.e., images and text.
 Sentiment Classification: Given an Internet meme, the first task is to classify it as a positive, very
